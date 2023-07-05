@@ -1,0 +1,27 @@
+
+// .custom-layout .react-colorful {
+//     height: auto;
+//     width: auto;
+// //     // padding: 16px;
+//     // border-radius: 0px;
+// //     background: #33333a;
+// //     box-shadow: 0 6px 12px #999;
+// }
+
+// .custom-layout .react-colorful__saturation {
+//     // margin: 15px 0;
+//     // border-radius: 5px;
+//     border-bottom: none;
+// }
+
+.custom-layout .react-colorful__hue,
+.custom-layout .react-colorful__alpha {
+    height: 14px;
+}
+
+.custom-layout .react-colorful__hue-pointer,
+.custom-layout .react-colorful__saturation-pointer,
+.custom-layout .react-colorful__alpha-pointer {
+    width: 15px;
+    height: 15px;
+}
